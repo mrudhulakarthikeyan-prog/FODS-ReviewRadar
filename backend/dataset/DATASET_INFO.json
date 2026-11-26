@@ -1,0 +1,13 @@
+{
+  "dataset": "haoxianc/srinandanv_amazon-product-reviews",
+  "source": "https://huggingface.co/datasets/haoxianc/srinandanv_amazon-product-reviews",
+  "license": "MIT (dataset card attribution: Sri Nandan V)",
+  "rows": 21255,
+  "label_counts": {
+    "Positive": 18806,
+    "Negative": 2144,
+    "Neutral": 305
+  },
+  "text_field": "Text",
+  "label_field": "sentiment_category"
+}

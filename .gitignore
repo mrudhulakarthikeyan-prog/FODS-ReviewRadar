@@ -1,0 +1,27 @@
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Node dependencies and builds
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded customer data
+backend/uploads/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
